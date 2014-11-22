@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### About
 
 이 블로그는 [jekyll](http://jekyllrb.com)과 [Github Pages](https://pages.github.com)를 활용하여 건설중에 있다.
 
