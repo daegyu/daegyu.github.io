@@ -6,7 +6,7 @@
 name: Daegyu Yang
 
 # Short bio or description (displayed in the header)
-description: Daegyu Yang's Jekyll-based Blog, where stuffs about organization theory written in Korean can be found.
+description: a humble researcher's blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble: 
   email: daegyu@gmail.com
-  facebook: 
+  facebook: otolsn
   flickr: 
   github: daegyu/daegyu.github.io
   instagram: 
