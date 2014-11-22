@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 종교와 기업조직
 ---
 
