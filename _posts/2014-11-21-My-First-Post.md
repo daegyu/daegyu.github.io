@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 나도 이제 테스트
+tags: blog post "organization theory" "social networks analysis"
 ---
 
 Jekyll과 github를 사용해서 만들어보는 블로그.
