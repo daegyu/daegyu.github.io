@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 나도 이제 테스트
+published: false
 tags: blog post "organization theory" "social networks analysis"
 ---
 
