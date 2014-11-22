@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This blog is Daegyu Yang's jekyll-based blog hosted by github.com.
+### About
 
-이 블로그는 양대규의 지킬 기반 블로그입니다.
+이 블로그는 [jekyll](http://jekyllrb.com)과 [Github Pages](https://pages.github.com)를 활용하여 건설중에 있다.
+2014년 11월 22일 현재 지지고볶는 중인데, 그래도 하루 열심히 보니 약간을 알 수 있을 것 같다.
+이 블로그를 제대로 건설하게 되면, 여기서 공부에 관한 일들을 잘 쌓아보려고 한다. 
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
 
 ### Contact me
 
